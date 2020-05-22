@@ -3580,7 +3580,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Limbayat "
+        "name": "Limbayat"
       },
       "geometry": {
         "type": "Polygon",
@@ -3591,7 +3591,7 @@
               21.174767780424546
             ],
             [
-              72.86042690277105,
+              72.86042690277105,S
               21.17216659876981
             ],
             [
@@ -3871,7 +3871,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dumbhal "
+        "name": "Dumbhal"
       },
       "geometry": {
         "type": "Polygon",
@@ -5415,7 +5415,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nanavarachha "
+        "name": "Nanavarachha"
       },
       "geometry": {
         "type": "Polygon",
@@ -7568,7 +7568,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Variyav"
+        "name": "Variav"
       },
       "geometry": {
         "type": "Polygon",
