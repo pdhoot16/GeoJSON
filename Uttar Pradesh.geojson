@@ -6914,7 +6914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Manipuri"
+        "name": "Mainpuri"
       },
       "geometry": {
         "type": "Polygon",
@@ -39085,7 +39085,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "Bulandshahr"
+        "name": "Bulandshahar"
       },
       "geometry": {
         "type": "Polygon",
@@ -41505,7 +41505,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "name": "Faizabad"
+        "name": "Ayodhya"
       },
       "geometry": {
         "type": "Polygon",
@@ -51062,7 +51062,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kanpur Dehat "
+        "name": "Kanpur Dehat"
       },
       "geometry": {
         "type": "Polygon",
