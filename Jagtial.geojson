@@ -2,7 +2,7 @@
     "type": "FeatureCollection",
     "features": [{
             "type": "Feature",
-            "properties": { "Name": "Velgatoor" },
+            "properties": { "name": "Velgatoor" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -1356,7 +1356,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Sarangapur" },
+            "properties": { "name": "Sarangapur" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -2011,7 +2011,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Raikal" },
+            "properties": { "name": "Raikal" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -3505,7 +3505,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Pegadapalle" },
+            "properties": { "name": "Pegadapalle" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -5498,7 +5498,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Metpalle" },
+            "properties": { "name": "Metpalle" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -7409,7 +7409,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Medipalle" },
+            "properties": { "name": "Medipalle" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -9845,7 +9845,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Mallapur" },
+            "properties": { "name": "Mallapur" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -11217,7 +11217,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Malial" },
+            "properties": { "name": "Malial" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -12475,7 +12475,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Koratla" },
+            "properties": { "name": "Koratla" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -14615,7 +14615,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Kodimial" },
+            "properties": { "name": "Kodimial" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -15511,7 +15511,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Kathlapur" },
+            "properties": { "name": "Kathlapur" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -17172,7 +17172,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Jagityal_Rural" },
+            "properties": { "name": "Jagityal_Rural" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -20453,7 +20453,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Jagtial" },
+            "properties": { "name": "Jagtial" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -21820,7 +21820,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Ibrahimpatnam" },
+            "properties": { "name": "Ibrahimpatnam" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -22877,7 +22877,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Gollapalle" },
+            "properties": { "name": "Gollapalle" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -24965,7 +24965,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Dharmapuri" },
+            "properties": { "name": "Dharmapuri" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -25514,7 +25514,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Buggaram" },
+            "properties": { "name": "Buggaram" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -26531,7 +26531,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "Name": "Beerpur" },
+            "properties": { "name": "Beerpur" },
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
