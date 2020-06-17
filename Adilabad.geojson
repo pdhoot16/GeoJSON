@@ -7050,7 +7050,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bazarhathnoor"
+        "name": "Bazarhatnoor"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20433,7 +20433,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gudihathnur"
+        "name": "Gudihathnoor"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26007,7 +26007,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Inderavelly"
+        "name": "Indervelly"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30054,7 +30054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jainad"
+        "name": "Jainath"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53399,7 +53399,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Utnur"
+        "name": "Utnoor"
       },
       "geometry": {
         "type": "MultiPolygon",
