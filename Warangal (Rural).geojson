@@ -3,7 +3,14 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Wardhannapet"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -5528,7 +5535,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Shyampet"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -11701,7 +11715,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Rapiarthy"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -16710,7 +16731,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Sangem"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -21891,7 +21919,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Parvathagiri"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -26616,7 +26651,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Narsampet"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -32917,7 +32959,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Nekkonda"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -37926,7 +37975,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Parkal"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -44591,7 +44647,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Nallabelly"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -48504,7 +48567,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Geesugonda"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -54957,7 +55027,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Khanapur"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -57866,7 +57943,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Damera"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -63735,7 +63819,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Duggondi"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -71636,7 +71727,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Atmakur"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
@@ -77601,7 +77699,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Chennaraopeta"
+      },
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
