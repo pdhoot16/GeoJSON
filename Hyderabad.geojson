@@ -3956,7 +3956,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Himayathnagar"
+        "name": "Himayatnagar"
       },
       "geometry": {
         "type": "MultiPolygon",
