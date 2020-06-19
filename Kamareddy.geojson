@@ -4043,7 +4043,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bhiknoor"
+        "name": "Bhiknur"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15096,7 +15096,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Birkur"
+        "name": "Birkoor"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48664,7 +48664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nagi Reddypet"
+        "name": "Nagireddypet"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76929,7 +76929,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sadashivnagar"
+        "name": "Sadasivanagar"
       },
       "geometry": {
         "type": "MultiPolygon",

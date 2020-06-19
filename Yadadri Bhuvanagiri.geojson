@@ -5175,7 +5175,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Ramannapeta"
+        "name": "Ramannapeta"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10438,7 +10438,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Pochampalle"
+        "name": "Pochampalle"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14753,7 +14753,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Addagudur"
+        "name": "Addagudur"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17000,7 +17000,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Alair"
+        "name": "Alair"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21787,7 +21787,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Atmakur"
+        "name": "Atmakur"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26354,7 +26354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Bhongiri"
+        "name": "Bhongiri"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33097,7 +33097,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Bibinagar"
+        "name": "Bibinagar"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39604,7 +39604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Bommalaramaram"
+        "name": "Bommalaramaram"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44491,7 +44491,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Choutuppal"
+        "name": "Choutuppal"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50650,7 +50650,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Mootakondur"
+        "name": "Mootakondur"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -55565,7 +55565,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Mothkur"
+        "name": "Mothkur"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -59452,7 +59452,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Rajapet"
+        "name": "Rajapet"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -63503,7 +63503,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Turkapalle"
+        "name": "Turkapalle"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68006,7 +68006,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Valigonda"
+        "name": "Valigonda"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74329,7 +74329,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Yadagirigutta"
+        "name": "Yadagirigutta"
       },
       "geometry": {
         "type": "MultiPolygon",

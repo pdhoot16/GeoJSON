@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Velgatoor"
+        "name": "Velgatur"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21840,7 +21840,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Metpalle"
+        "name": "Metpalli"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29447,7 +29447,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Medipalle"
+        "name": "Medipalli"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -68277,7 +68277,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jagityal Rural"
+        "name": "Jagtial Rural"
       },
       "geometry": {
         "type": "MultiPolygon",
