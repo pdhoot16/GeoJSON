@@ -2567,7 +2567,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Annapureddipalle"
+        "name": "Annapureddypalli"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8735,7 +8735,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Burgampadu"
+        "name": "Bhoorgampahad"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13528,7 +13528,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chunchupally"
+        "name": "Chunchupalli"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32799,7 +32799,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Palawancha"
+        "name": "Palwancha"
       },
       "geometry": {
         "type": "MultiPolygon",
