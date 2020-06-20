@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Velgatur"
+        "name": "Velgatoor"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21840,7 +21840,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Metpalli"
+        "name": "Metpalle"
       },
       "geometry": {
         "type": "MultiPolygon",
