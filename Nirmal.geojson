@@ -46072,7 +46072,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Narsapur_G"
+        "name": "Narsapur G"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53690,7 +53690,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nirmal_Rural"
+        "name": "Nirmal Rural"
       },
       "geometry": {
         "type": "MultiPolygon",
