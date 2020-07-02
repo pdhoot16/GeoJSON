@@ -5603,7 +5603,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chilpur "
+        "name": "Chilpur"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10050,7 +10050,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Devaruppula "
+        "name": "Devaruppula"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19760,7 +19760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gundala "
+        "name": "Gundala"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25543,7 +25543,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jangoan "
+        "name": "Jangoan"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29866,7 +29866,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Kodakandla "
+        "name": "Kodakandla"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32833,7 +32833,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lingalaghanpur "
+        "name": "Lingalaghanpur"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37936,7 +37936,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Narmetta "
+        "name": "Narmetta"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49817,7 +49817,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tharigoppula "
+        "name": "Tharigoppula"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53004,7 +53004,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Zaffergadh "
+        "name": "Zaffergadh"
       },
       "geometry": {
         "type": "MultiPolygon",
