@@ -22170,8 +22170,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Aligarh",
-        "name ": ""
+        "name": "Aligarh"
       },
       "geometry": {
         "type": "Polygon",
